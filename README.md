@@ -20,12 +20,14 @@ This project showcases the integration of Gemini AI into an Android application,
 - MVVM architecture
 - Image picker
 
-  ## Why Gemini AI?
+# Why Gemini AI?
 
 Choosing Gemini AI for Android application was driven by the need to incorporate a robust, scalable, and efficient AI solution that could handle complex user data and provide meaningful insights. Gemini AI's advanced algorithms and user-friendly integration process made it the perfect choice for our app, allowing us to innovate beyond traditional app functionalities.
   
 # Screenshots
 ![geminigit](https://github.com/shiv-eng/GeminiAIAndroid/assets/59472647/9679053e-5eb8-4ebd-997b-0106f66fdbe3)
+![geminigit2](https://github.com/shiv-eng/GeminiAIAndroid/assets/59472647/a09d39d5-2fbc-4197-a58b-7fbec173aa44)
+
 
 
 
