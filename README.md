@@ -1,18 +1,14 @@
-It is a Gemini AI application where you can get information from text, image and get info. in a conversational format. 
 
-Download App from the release section
+# Overview
 
-![ic_launcher-playstore](https://github.com/KaushalVasava/GeminiAI/assets/49050597/2a9fab2b-659d-4d3d-a72d-19054a4dce66)
+This project showcases the integration of Gemini AI into an Android application, aiming to enhance the app's functionality with cutting-edge AI features. By leveraging Gemini AI, the app offers personalized user experiences, intelligent recommendations, and innovative interactions, setting a new standard in user engagement and satisfaction.
 
 # Features
-- Generate information from Text input 
-- Get information from Photo(s) 
-- Get information in a conversational format
-- Simple Clean UI with Animations
-- Voice input for AI Chat
-- Code and bold text formatting
-- Multi images chat
-- copy and share support
+
+- **Personalized Content Delivery**: Utilizes Gemini AI to analyze user preferences and behavior, delivering content that's tailored to individual users.
+- **Intelligent Recommendations**: Employs advanced algorithms to provide users with recommendations that improve over time, based on their interactions and feedback.
+- **Enhanced User Interactions**: Integrates AI-driven features that make the app more interactive and responsive to user needs, offering a seamless and intuitive user interface.
+
 
 # Technologies:
 - Kotlin 
@@ -23,29 +19,23 @@ Download App from the release section
 - Generative AI for All AI related stuff
 - MVVM architecture
 - Image picker
+
+  ## Why Gemini AI?
+
+Choosing Gemini AI for Android application was driven by the need to incorporate a robust, scalable, and efficient AI solution that could handle complex user data and provide meaningful insights. Gemini AI's advanced algorithms and user-friendly integration process made it the perfect choice for our app, allowing us to innovate beyond traditional app functionalities.
   
 # Screenshots
-![APP MANAGER AND QUICK LAUNCHER (1)](https://github.com/KaushalVasava/GeminiAI/assets/49050597/4419ad45-c600-4cb2-9dec-0676f7eeaa25)
+![geminigit](https://github.com/shiv-eng/GeminiAIAndroid/assets/59472647/9679053e-5eb8-4ebd-997b-0106f66fdbe3)
 
-# Video
-
-https://github.com/KaushalVasava/GeminiAI/assets/49050597/b6f16d18-9f00-4ca2-8939-347d9ff47c16
 
 
 # Docs
 https://android-developers.googleblog.com/2023/12/leverage-generative-ai-in-your-android-apps.html
 
-# Contribution
-You can contribute this project. Just Solve issue or update code and raise PR. I'll do code review and merge your changes into main branch. See Commit message guidelines https://initialcommit.com/blog/git-commit-messages-best-practices
+## About Me
 
-# Licence
-Copyright 2024 Kaushal Vasava
+ Hi! My name is Shivangi Mundra, I work as a Software Developer and like to expand my skill set in my spare time.
 
-Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
+If you have any questions or want to connect, feel free to reach out to me on :
 
-http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
-
-# Author
-Kaushal Vasava
+- [LinkedIn](https://www.linkedin.com/in/shivangi-mundra-9a31b65b/)
